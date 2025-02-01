@@ -1,0 +1,17 @@
+#MM240370 {
+    background-color: lightblue;
+    padding: 20px;
+    margin: 15px;
+    border-radius: 10px;
+    text-align: center;
+  }
+  
+  #MM240370 h2 {
+    color: darkblue;
+  }
+  
+  #MM240370 p {
+    color: darkgreen;
+    font-size: 16px;
+  }
+  
