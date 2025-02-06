@@ -33,3 +33,16 @@
     text-align: center;
     transition: transform 0.3s ease-in-out;
 }  
+#LA2404841 {
+    width: 300px;
+    height: 200px;
+    background-color: #6104ad;
+    color: rgb(0, 233, 213);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
